@@ -20,7 +20,7 @@ function main() {
       <BrowserRouter>
         <div>
           <div className="nav-bar">
-            <Link to="/">HOME</Link>
+            <Link to="/">Home</Link>
             <Link to="/movies">Show Movies</Link>
             <Link to="/add/movies">Add New Movies</Link>
           </div> 
